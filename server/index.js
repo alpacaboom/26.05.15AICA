@@ -113,3 +113,5 @@ reason은 한국어로 한 문장만 작성한다.
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
+
+module.exports = app;
